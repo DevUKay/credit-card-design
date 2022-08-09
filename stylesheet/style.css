@@ -164,6 +164,9 @@ select {
     justify-content: center;
     padding-top: 2rem;
 }
+a{
+    color: var(--btn-color)
+}
 
                 /* //////////////////////////////////////////////////////// */
 
