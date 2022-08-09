@@ -24,8 +24,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/Da]
-- Live Site URL: [https://devuka]
+View Live site HERE[https://devukay.github.io/credit-card-design/]
 
 ## My process
 
